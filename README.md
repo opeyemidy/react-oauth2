@@ -1,2 +1,2 @@
-# react-oauth2
+# clase-hass
 Created with CodeSandbox
